@@ -1,23 +1,31 @@
-<div align="center">
+<h1 align="center">📊 Analytics Workspace</h1>
 
-<img src="assets/banner.svg" alt="Analytics Workspace: turning raw data into clear insights and confident decisions" width="100%">
+<p align="center">
+  <b>Turning raw data into clear insights and confident decisions.</b>
+</p>
 
-<br>
+<p align="center">
+  Santosh Kumar &nbsp;·&nbsp; Data Analyst &nbsp;·&nbsp; Insight-Driven &nbsp;·&nbsp; Growth Mindset
+</p>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+</p>
 
-<br><br>
+<p align="center">
+  <a href="#-overview"><b>Overview</b></a> &nbsp;·&nbsp;
+  <a href="#-focus-areas"><b>Focus Areas</b></a> &nbsp;·&nbsp;
+  <a href="#%EF%B8%8F-tools--technologies"><b>Tech Stack</b></a> &nbsp;·&nbsp;
+  <a href="#-analytics-workflow"><b>Workflow</b></a> &nbsp;·&nbsp;
+  <a href="#-principles"><b>Principles</b></a>
+</p>
 
-[**Overview**](#-overview) &nbsp;·&nbsp; [**Focus Areas**](#-focus-areas) &nbsp;·&nbsp; [**Tech Stack**](#%EF%B8%8F-tools--technologies) &nbsp;·&nbsp; [**Workflow**](#-analytics-workflow) &nbsp;·&nbsp; [**Principles**](#-principles)
-
-</div>
-
-<br>
+---
 
 ## 📌 Overview
 
@@ -136,10 +144,8 @@ flowchart LR
 >
 > **Continuous learning.** Always improving skills, methods, and tools.
 
-<br>
+---
 
-<div align="center">
-
-*Data is only valuable when it leads to action.*
-
-</div>
+<p align="center">
+  <i>Data is only valuable when it leads to action.</i>
+</p>
