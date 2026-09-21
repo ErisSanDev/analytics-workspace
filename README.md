@@ -1,4 +1,7 @@
-# analytics-workspace
+<h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
+<h3 align="center">Data Analyst |Insight & Data Driven | Growth Mindset Person</h3>
+
+<h1 align="center">analytics-workspace
 
 > A practical workspace for Data Analysts — turning raw data into meaningful insights and data-driven decisions through cleaning, analysis, reporting, and visualization.
 
